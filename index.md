@@ -3,9 +3,9 @@ layout: home
 title: Home
 ---
 
-# 
 
-[![](/images/mouth.jpg)]
+
+[![(/images/mouth.jpg)]
 
 ## Wake-up Call
 

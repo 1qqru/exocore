@@ -3,7 +3,7 @@ published: true
 subtitle:
 topic:
 date: 2022-12-07
-tags: 
+tags: Beauty, Nature, Art
 foam_template:
   filepath: '_articles/on-the-creation-of-beauty.md'
   name: Article
