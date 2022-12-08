@@ -5,7 +5,7 @@ title: Home
 
 
 
-[![(/images/mouth.jpg)]
+![An open mouth.](/images/mouth.jpg)
 
 ## Wake-up Call
 
