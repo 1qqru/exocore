@@ -47,4 +47,13 @@
   "gitdoc.autoPushDelay": 43200000,
   "gitdoc.autoPush": "afterDelay",
   "gitdoc.enabled": false,
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext",
+    "yaml"
+  ],
 }
