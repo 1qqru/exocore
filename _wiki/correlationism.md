@@ -1,12 +1,12 @@
 ---
 published: true
 date: 2022-12-08
-tags:
+tags: speculative_realism
 foam_template:
   filepath: '_wiki/correlationism.md'
   name: Wiki Note
 ---
-# 3b014a
+# Correlationism
 
 Correlationism is a philosophical concept developed by French philosopher Quentin Meillassoux. It refers to the idea that the relationship between the human mind and the external world is necessary for the existence and understanding of both. This concept has been widely discussed in the field of continental philosophy.
 

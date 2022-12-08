@@ -1,12 +1,12 @@
 ---
 published: true
 date: 2022-12-08
-tags:
+tags: speculative_realism
 foam_template:
   filepath: '_wiki/object-oriented-ontology-ooo.md'
   name: Wiki Note
 ---
-# 5c01fd
+# Object Oriented Ontology (OOO)
 
 The concept of Object Oriented Ontology (OOO) is a philosophical approach that emphasizes the ontological primacy of individual objects and their inherent qualities and relations, rather than abstract concepts or universal principles. This perspective challenges traditional metaphysical models that prioritize the subject-object dichotomy and the idea of a single, overarching reality.
 
