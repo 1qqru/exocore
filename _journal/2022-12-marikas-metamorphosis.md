@@ -37,7 +37,7 @@ Marika's lyrics are raw and genuine, giving us an intimate glimpse into her thou
 
 And most importantly, she shows us matureness and humility, by nevertheless thanking her fans for – even with her imperfections – always being by her side, even if she really still does not understand why.
 
-> Even though I am this weird. Thank you for discovering me.
+> "Even though I am this weird. Thank you for discovering me.
 > How can you look at me with that friendly smile?
 > Your words really helped me a lot.
 > Thank you.
@@ -57,7 +57,7 @@ The ending of the video, with Marika arriving at the final audition venue for No
 
 !["Hajimarika, "](../images/hajimarika_ending.gif)
 
-After an idol graduates, we often find ourselves longing for the memories and moments they left with us. We may cling to the words, sounds, or visions of the idol that touched our hearts, but they remain at a distance. rom them, we are left with nostalgia and the urge to revisit what they touched us with, and the sadistic desire for experiencing them going away one more time. We can only hope that they left a fragment of something in us, a lost letter, a smile, or a piece that no one noticed of their soul.
+After an idol graduates, we often find ourselves longing for the memories and moments they left with us. We may cling to the words, sounds, or visions of the idol that touched our hearts, but they remain at a distance. From them, we are left with nostalgia and the urge to revisit what they touched us with, and the sadistic desire for experiencing them going away one more time. We can only hope that they left a fragment of something in us, a lost letter, a smile, or a piece that no one noticed of their soul.
 
 Marika's "Hajimarika" weaves a narrative that is raw and bittersweet, capturing the intimate struggles of her journey as an idol. But within these intimate moments, the PV finds moments of transcendence that draw their power from the unique connection between idols and their fans.
 
