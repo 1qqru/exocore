@@ -74,9 +74,7 @@ I have a message from another time.
 
 2004 ‘ハウルの動く城’
 
-## THE RADIOACTIVE CHILDREN
-
-## Otaku: An Infantile Disorder
+## THE RADIOACTIVE CHILDREN — Otaku: An Infantile Disorder
 
 ### Post-War Japanese Constitution
 
