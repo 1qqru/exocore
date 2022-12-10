@@ -7,7 +7,7 @@ tags:  culture art cinema
 
 # SUPERFLAT: Foundations of Modern Otaku Culture
 
-## Movies
+## Essential Content
 
 Chronological collection of films referenced in a variety of sources on the subject and picks which I personally think are signifiers of the concept.
 
@@ -17,6 +17,8 @@ Where darkness and light are one,
 And as you tread the halls of sanity,
 You feel so glad to be unable to go beyond.
 I have a message from another time.
+
+### Movies
 
 1954 ‘七人の侍’ <mark style="background-color: #FFFF00">KEY!!!</mark>
 
@@ -73,6 +75,12 @@ I have a message from another time.
 2004 ‘イノセンス’
 
 2004 ‘ハウルの動く城’
+
+### Anime
+
+### Manga
+
+### Books
 
 ## THE RADIOACTIVE CHILDREN — Otaku: An Infantile Disorder
 
