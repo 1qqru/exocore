@@ -8,7 +8,7 @@ foam_template:
   name: Journal Entry
 ---
 
-# SUPERFLAT 01: Foundations of Otaku Culture
+# SUPERFLAT #01: Foundations of Modern Otaku Culture
 
 ## Movies
 
@@ -76,3 +76,28 @@ I have a message from another time.
 2004 ‘イノセンス’
 
 2004 ‘ハウルの動く城’
+
+## The radioactive children.
+
+### Otaku: An Infantile Disorder
+
+- Post-War Japanese Constitution
+- Tokusatsu
+- Sci-fi
+- First Generation of Otakus
+
+### Gatekeeping: Degenarecy as self-defense and Otaku as an anticulture 
+
+- Spirited Away wins Best Animated Feature
+- Pushing the Overton Window
+- Doujin, Lolicon, Hentai and Imageboards
+- Eroge Games
+- Appeal to western audiences
+- Japan as a patchwork of anticultures
+  -   The Wota.
+
+### Superflat
+
+- Takeshi Murakami view on the concept
+- Superflat artists
+- Egoless Internet as potentialization of Superflatness
