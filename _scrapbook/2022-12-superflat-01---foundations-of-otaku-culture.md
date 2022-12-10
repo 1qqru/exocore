@@ -3,9 +3,6 @@ published: draft
 subtitle:
 date: 2022-12-10
 tags: superflat cinema culture art
-foam_template:
-  filepath: '_journal/2022-12-superflat-01---foundations-of-otaku-culture.md'
-  name: Journal Entry
 ---
 
 # SUPERFLAT #01: Foundations of Modern Otaku Culture
