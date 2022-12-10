@@ -8,6 +8,8 @@ foam_template:
   name: Journal Entry
 ---
 
+# Thoughts on Daido Moriyama's "A Japanese Town"
+
 ![](/images/a_japanese_town.jpg)
 
 Society, in its very essence, has degenerative condition, but despite this, many have attempted to explore its depths. One notable figure in this regard is Daido Moriyama, whose work "A Japanese Town" stands out as a testament to the reactive impulses of sensuality, the potency of gruesome bursts, and the erotic essence that is so characteristic of his non-labored workflow.
