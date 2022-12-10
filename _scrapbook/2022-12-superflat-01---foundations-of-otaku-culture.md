@@ -96,7 +96,7 @@ This constitution changed the Japanese psyche and forced the people of japan int
 - Sci-fi
 - First Generation of Otakus
 
-### Gatekeeping: Degenarecy as self-defense and Otaku as an anticulture 
+## Gatekeeping: Degenarecy as self-defense and Otaku as an anticulture 
 
 - Spirited Away wins Best Animated Feature
 - Pushing the Overton Window
@@ -106,7 +106,7 @@ This constitution changed the Japanese psyche and forced the people of japan int
 - Japan as a patchwork of anticultures
   -   The Wota
 
-### Superflat
+## Superflat
 
 - Takeshi Murakami view on the concept
 - Superflat artists
