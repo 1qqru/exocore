@@ -113,7 +113,7 @@ This constitution changed the Japanese psyche and forced the people of japan int
 - The Concept of Multiplicity in Egoless Internet as potentialization of Superflatness
 - The Milady Experiment
 
-[^1] The post-war Japanese constitution's Article 9, which renounces war and prohibits the maintenance of armed forces, has long been a source of debate and controversy. However, in recent years, the article has been reinterpreted to allow for Japan's participation in warfare alongside the United States.
+[^1]: The post-war Japanese constitution's Article 9, which renounces war and prohibits the maintenance of armed forces, has long been a source of debate and controversy. However, in recent years, the article has been reinterpreted to allow for Japan's participation in warfare alongside the United States.
 
   This reinterpretation came to the forefront during the Iraq War, when Japan sent a self-defense force to provide non-combat support to American forces. This marked a significant shift in Japan's pacifist stance, and raised questions about the limitations of Article 9.
 
