@@ -99,18 +99,26 @@ This constitution changed the Japanese psyche and forced the people of japan int
 ## Gatekeeping: Degenarecy as self-defense and Otaku as an anticulture 
 
 ### Spirited Away wins Best Animated Feature
+
 ### Pushing the Overton Window
+
 ### Doujinshi, Lolicon, Hentai and Imageboards
+
 ### Japan as a patchwork of anticultures
-  ####   The Wota
+
+###   The Wota
+
 ### Appeal to western audiences
 
 ## Superflat
 
 ### Takeshi Murakami's view on the concept
+
 ### Superflat artists
+
 ### The Concept of Multiplicity in Egoless Internet as potentialization of Superflatness
-#### The Milady Experiment
+
+### The Milady Experiment
 
 [^1]: The post-war Japanese constitution's Article 9, which renounces war and prohibits the maintenance of armed forces, has long been a source of debate and controversy. However, in recent years, the article has been reinterpreted to allow for Japan's participation in warfare alongside the United States.
 
