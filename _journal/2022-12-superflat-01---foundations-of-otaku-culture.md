@@ -94,7 +94,7 @@ I have a message from another time.
 - Eroge Games
 - Appeal to western audiences
 - Japan as a patchwork of anticultures
-  -   The Wota.
+  -   The Wota
 
 ### Superflat
 
