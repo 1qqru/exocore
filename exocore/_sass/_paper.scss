@@ -12,36 +12,36 @@ $color-items: #ffffff;
 /* --- Text Colors --- */
 $color-text: black;
 $color-subtext: black;
-$internal-links: brown;
-$external-links: brown;
+$internal-links: #7e2483;
+$external-links: #7e2483;
 $invalid-links: $internal-links;
-$color-primary: brown;
+$color-primary: #7e2483;
 $color-box-shadow: none;
 
 
 /* --- Borders --- */
 $article-border: none;
-$sidebar-border: 2px solid brown;
+$sidebar-border: 2px solid #7e2483;
 $prev-next-border: none;
 $color-item-border: none;
-$border-radius: 5px;
+$border-radius: 0px;
 
 /* --- Embeds, Sidenote and Footnote Colors --- */
-$embed-border: 2px solid brown;
+$embed-border: 2px solid #7e2483;
 $color-embed-background: white;
 $color-embed-title: black;
 $color-embed-text: black;
 
-$footnote-border: 2px solid brown;
+$footnote-border: 2px solid #7e2483;
 $color-footnote-background: white;
 $color-footnote-text: black;
 
 $sidenote-border: thin solid $color-primary;
 $color-sidenote-background: none;
-$color-sidenote-text: brown;
+$color-sidenote-text: #7e2483;
 
 $color-code-text: white;
-$color-code-highlight: brown;
+$color-code-highlight: #7e2483;
 $color-code-background: $color-code-highlight;
 
 
@@ -176,7 +176,7 @@ index-grid a:hover {
 
 .sidebar-link-box a, .post-content a {
     &:hover{
-      background-color: brown;
+      background-color: #7e2483;
       color: white;
     }
 }
@@ -374,7 +374,7 @@ article {
 .sidebar-link-box, .index-grid {
     display: grid;
     grid-template-columns: auto;
-//    border: 2px brown solid; 
+//    border: 2px #7e2483 solid; 
     box-shadow: 1px 1px 0px $color-box-shadow;
     background-color: $color-inner-divs;
     margin-bottom: 0.5em;
@@ -501,7 +501,7 @@ img+em {
     background-color: $color-inner-divs;
     padding: 1em;
     margin: 1em auto;
-    border: 2px solid brown;
+    border: 2px solid #7e2483;
     border-radius: 5px;
     
 }
@@ -569,7 +569,7 @@ img+em {
     box-sizing: border-box;
     color: $internal-links;
     background: white;
-    border: 1px solid brown;
+    border: 1px solid #7e2483;
 }
 
 .sidenote:hover {
@@ -624,7 +624,7 @@ img+em {
     text-align: left;
     grid-gap: flex;
     padding: 1em;
-        border: 2px solid brown;
+        border: 2px solid #7e2483;
     border-radius: 5px;
 
     
@@ -817,7 +817,7 @@ font-weight: normal;
 }
 .prev {
     float: left;
-    border: 2px solid brown;
+    border: 2px solid #7e2483;
     box-sizing: border-box;
     border-radius: 5px;
     padding: 0.5em;
@@ -828,14 +828,14 @@ font-weight: normal;
     line-height: 1.5em;
 
     &:hover {
-    background: brown;
+    background: #7e2483;
         color: white; }
 }
 
 
 .next {
     float: right;
-    border: 2px solid brown;
+    border: 2px solid #7e2483;
     box-sizing: border-box;
     border-radius: 5px;
     padding: 0.5em;
@@ -846,7 +846,7 @@ font-weight: normal;
     line-height: 1.5em;
     
     &:hover {
-    background: brown;
+    background: #7e2483;
         color: white; }
 }
 
@@ -925,7 +925,7 @@ font-weight: normal;
   #graph-wrapper svg {
       background: $color-inner-divs;
       height: 40em;
-      border: 2px solid brown;
+      border: 2px solid #7e2483;
       border-radius: 10px;
 
   }
@@ -1047,7 +1047,7 @@ table, tr, td {
 }
 
 .border {
-    border: medium solid brown;
+    border: medium solid #7e2483;
 }
 
 .shadow {

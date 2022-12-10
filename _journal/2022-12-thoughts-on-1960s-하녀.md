@@ -18,6 +18,6 @@ foam_template:
 
 ## The housemaid as a catalyst for desire
 
-## The architecture of the home as a reflection of desires and ambitions
+## Family-making as a reflection of one's own desires and ambitions
 
 ## The home as a psychological space in The Housemaid
