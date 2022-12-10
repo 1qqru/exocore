@@ -13,13 +13,10 @@ type:
     {% assign items = site.articles | sort: 'date' | reverse %}
     {% assign posts_displayed = site.articles.size | at_most: 10 %}
     {% assign posts_total  = site.articles.size %}
-          </div>
-          {% endif %}
-  </article>  
-  
-</main>
 
-  
+<br>
+      {% for item in items %}	
+
 <br>
 
 {% endfor %}
