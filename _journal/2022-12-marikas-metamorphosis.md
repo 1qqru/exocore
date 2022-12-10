@@ -2,7 +2,7 @@
 published: true
 subtitle:
 date: 2022-12-10
-tags:
+tags: idol culture
 foam_template:
   filepath: '_journal/2022-12-marikas-metamorphosis.md'
   name: Journal Entry
