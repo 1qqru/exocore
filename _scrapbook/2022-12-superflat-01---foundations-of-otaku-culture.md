@@ -104,7 +104,7 @@ This constitution changed the Japanese psyche and forced the people of japan int
 
 ### The First Generation of Otakus
 
-## Gatekeeping: Degenarecy as self-defense and Otaku as an anticulture 
+## Gatekeeping: Degeneracy as self-defense and Otaku as an anticulture 
 
 ### Spirited Away wins Best Animated Feature
 
