@@ -119,4 +119,4 @@ This constitution changed the Japanese psyche and forced the people of japan int
 
     Critics argue that this reinterpretation undermines the spirit of the constitution and puts Japan at risk of being drawn into conflicts that do not directly threaten its security. They argue that Japan should remain committed to its pacifist principles and avoid involvement in foreign wars.
 
-   Supporters of the reinterpretation, on the other hand, argue that it is necessary for Japan to play a more active role in international security, particularly in light of the growing threat from North Korea and China. They argue that Japan must be willing to defend itself and its allies, and that the self-defense force is capable of doing so without violating the constitution.
+    Supporters of the reinterpretation, on the other hand, argue that it is necessary for Japan to play a more active role in international security, particularly in light of the growing threat from North Korea and China. They argue that Japan must be willing to defend itself and its allies, and that the self-defense force is capable of doing so without violating the constitution.
