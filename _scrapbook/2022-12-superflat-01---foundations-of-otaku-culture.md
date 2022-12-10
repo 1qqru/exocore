@@ -115,8 +115,8 @@ This constitution changed the Japanese psyche and forced the people of japan int
 
 [^1]: The post-war Japanese constitution's Article 9, which renounces war and prohibits the maintenance of armed forces, has long been a source of debate and controversy. However, in recent years, the article has been reinterpreted to allow for Japan's participation in warfare alongside the United States.
 
-  This reinterpretation came to the forefront during the Iraq War, when Japan sent a self-defense force to provide non-combat support to American forces. This marked a significant shift in Japan's pacifist stance, and raised questions about the limitations of Article 9.
+    This reinterpretation came to the forefront during the Iraq War, when Japan sent a self-defense force to provide non-combat support to American forces. This marked a significant shift in Japan's pacifist stance, and raised questions about the limitations of Article 9.
 
-  Critics argue that this reinterpretation undermines the spirit of the constitution and puts Japan at risk of being drawn into conflicts that do not directly threaten its security. They argue that Japan should remain committed to its pacifist principles and avoid involvement in foreign wars.
+    Critics argue that this reinterpretation undermines the spirit of the constitution and puts Japan at risk of being drawn into conflicts that do not directly threaten its security. They argue that Japan should remain committed to its pacifist principles and avoid involvement in foreign wars.
 
-  Supporters of the reinterpretation, on the other hand, argue that it is necessary for Japan to play a more active role in international security, particularly in light of the growing threat from North Korea and China. They argue that Japan must be willing to defend itself and its allies, and that the self-defense force is capable of doing so without violating the constitution.
+   Supporters of the reinterpretation, on the other hand, argue that it is necessary for Japan to play a more active role in international security, particularly in light of the growing threat from North Korea and China. They argue that Japan must be willing to defend itself and its allies, and that the self-defense force is capable of doing so without violating the constitution.
