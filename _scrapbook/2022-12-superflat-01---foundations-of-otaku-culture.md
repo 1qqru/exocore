@@ -87,7 +87,7 @@ I have a message from another time.
 
 - Spirited Away wins Best Animated Feature
 - Pushing the Overton Window
-- Doujin, Lolicon, Hentai and Imageboards
+- Doujinshi, Lolicon, Hentai and Imageboards
 - Eroge Games
 - Appeal to western audiences
 - Japan as a patchwork of anticultures
