@@ -8,7 +8,7 @@ foam_template:
   name: Journal Entry
 ---
 
-# Thoughts on Daido Moriyama's "A Japanese
+# Thoughts on Daido Moriyama's "A Japanese Town"
 
 ![](/images/a_japanese_town.jpg)
 
