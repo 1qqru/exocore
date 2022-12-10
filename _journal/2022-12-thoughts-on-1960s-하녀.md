@@ -8,9 +8,16 @@ foam_template:
   name: Journal Entry
 ---
 
-# Thoughts on 1960's ‘하녀’
+# Thoughts on 김기영's ‘하녀’
 
-##
-##
-##
-##
+## The psychological effects of architecture on the human mind
+
+## Gaston Bachelard's philosophy of the home
+
+## The housemaid and the disruption of power dynamics
+
+## The housemaid as a catalyst for desire
+
+## The architecture of the home as a reflection of desires and ambitions
+
+## The home as a psychological space in The Housemaid
