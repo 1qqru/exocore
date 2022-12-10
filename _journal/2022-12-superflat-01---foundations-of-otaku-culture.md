@@ -100,4 +100,5 @@ I have a message from another time.
 
 - Takeshi Murakami view on the concept
 - Superflat artists
-- Egoless Internet as potentialization of Superflatness
+- The Concept of Multiplicity in Egoless Internet as potentialization of Superflatness
+- The Milady Experiment
