@@ -2,7 +2,7 @@
 published: draft
 subtitle:
 date: 2022-12-10
-tags: superflat cinema culture art
+tags:  culture art cinema
 ---
 
 # SUPERFLAT #01: Foundations of Modern Otaku Culture
