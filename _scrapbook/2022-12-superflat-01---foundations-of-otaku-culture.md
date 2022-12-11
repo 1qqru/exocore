@@ -108,7 +108,7 @@ This constitution changed the Japanese psyche and forced the people of japan int
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UTB9rzP2efE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The film Daicon IV is a celebration of otaku culture, captured in a beautiful five-minute 8mm masterpiece. Set at the 1981 "Osaka Science Fiction Convention" - an event for fans of anime and science fiction - it showcases the boundless possibilities of the imagination and the power of storytelling.
+The film Daicon IV is a celebration of otaku culture, captured in a beautiful five-minute 8mm masterpiece. Screened at the 1981 "Osaka Science Fiction Convention" - an event for fans of anime and science fiction - it showcases the boundless possibilities of the imagination and the power of storytelling.
 
 Fuelled by a love for science fiction, the rise of otaku culture was marked by the emergence of "robot anime" and tokusatsu - special effects-driven tales that drew inspiration from the West. The classic anime Mobile Suit Gundam, for example, was influenced by Heinlein's novel Starship Troopers. Before the term "otaku" entered the public consciousness, these devoted fans of anime and tokusatsu found solace in the fantastical worlds of science fiction, and the Daicon films were their shining beacon. Like a guiding light in the darkness, these works illuminated the burgeoning otaku movement, offering a glimpse into the infinite possibilities of the imagination.
 
