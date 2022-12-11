@@ -106,6 +106,8 @@ This constitution changed the Japanese psyche and forced the people of japan int
 
 ### Historiography of Otaku
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UTB9rzP2efE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The film Daicon IV is a celebration of otaku culture, captured in a beautiful five-minute 8mm masterpiece. Set at the 1981 "Osaka Science Fiction Convention" - an event for fans of anime and science fiction - it showcases the boundless possibilities of the imagination and the power of storytelling.
 
 Fuelled by a love for science fiction, the rise of otaku culture was marked by the emergence of "robot anime" and tokusatsu - special effects-driven tales that drew inspiration from the West. The classic anime Mobile Suit Gundam, for example, was influenced by Heinlein's novel Starship Troopers. Before the term "otaku" entered the public consciousness, these devoted fans of anime and tokusatsu found solace in the fantastical worlds of science fiction, and the Daicon films were their shining beacon. Like a guiding light in the darkness, these works illuminated the burgeoning otaku movement, offering a glimpse into the infinite possibilities of the imagination.
@@ -140,7 +142,7 @@ As the otaku subculture grew and evolved, it began to shed its reputation as a m
 
 Despite its mainstream acceptance, the otaku subculture still maintains its outsider status, with many of its members continuing to explore the fringes of Japanese society. This outsider perspective has allowed the otaku to develop a unique and often provocative approach to art, culture, and entertainment. In this way, the otaku subculture has come to be seen as an "anticulture," rejecting the norms and values of mainstream society in favor of its own unique vision. This anticultural approach has led the otaku to embrace the strange and the taboo, creating works of art and entertainment that are both shocking and thought-provoking. As the otaku subculture continues to evolve, it will likely continue to challenge and subvert the expectations of the mainstream, pushing the boundaries of what is considered acceptable and acceptable in pursuit of its own unique vision.
 
-### Pushing the Overton Window: Doujinshi, Lolicon, Hentai and Imageboards
+### Pushing the Overton Window
 
 The otaku subculture has played a significant role in pushing the boundaries of what is considered acceptable and acceptable in Japanese society. Through their embrace of the grotesque, their rejection of traditional gender norms, and their exploration of niche and specialized forms of art and entertainment, the otaku have challenged the norms and expectations of the mainstream, helping to shift the so-called "Overton window" and open up new possibilities for expression.
 
