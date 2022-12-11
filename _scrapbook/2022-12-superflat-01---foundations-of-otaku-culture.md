@@ -9,7 +9,7 @@ tags:  culture art cinema
 
 ## Essential Content
 
-Chronological collection of films referenced in a variety of sources on the subject and picks which I personally think are signifiers of the concept.
+Chronological collection of media referenced in a variety of sources on the subject and picks which I personally think are signifiers of the concept.
 
 >Just on the border of your waking mind,
 There lies another time.
@@ -77,6 +77,8 @@ I have a message from another time.
 2004 ‘ハウルの動く城’
 
 ### Anime
+
+
 
 ### Manga
 

@@ -8,7 +8,7 @@ foam_template:
   name: Journal Entry
 ---
 
-# Thoughts on 김기영's ‘하녀’
+# Topoanalysis in "The Handmaiden" 
 
 ![](../images/housemade%200.png)
 
