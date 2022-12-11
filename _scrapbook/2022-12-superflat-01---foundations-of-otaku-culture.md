@@ -126,7 +126,21 @@ This constitution changed the Japanese psyche and forced the people of japan int
 ### Superflat artists
 
 ### The Concept of Multiplicity in Egoless Internet as potentialization of Superflatness
+
+## The Digital Realm is 2D
+
+### The primitive user
+
+### Alchemist-Programmer
+
+### Digital Dreamscapes
+
+### Net-art
+#### NEEN
 #### The Milady Experiment
+
+### Superdigitalism: New directions on a two-dimensional landscape
+
 
 [^1]: The post-war Japanese constitution's Article 9, which renounces war and prohibits the maintenance of armed forces, has long been a source of debate and controversy. However, in recent years, the article has been reinterpreted to allow for Japan's participation in warfare alongside the United States.
 
