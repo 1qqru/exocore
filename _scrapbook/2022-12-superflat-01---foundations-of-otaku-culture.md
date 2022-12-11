@@ -86,6 +86,8 @@ I have a message from another time.
 
 ## THE RADIOACTIVE CHILDREN — Otaku: An Infantile Disorder
 
+![Article 9](../images/article%209.png)
+
 ### Post-War Japanese Constitution
 
 The post-war Japanese constitution was heavily influenced by the United States, as Japan was occupied by American forces following World War II. The constitution was intended to promote democracy and prevent the rise of militarism and authoritarianism in Japan.
