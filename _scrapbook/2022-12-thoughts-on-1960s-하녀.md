@@ -3,9 +3,6 @@ published: draft
 subtitle:
 date: 2022-12-10
 tags: cinema art
-foam_template:
-  filepath: '_journal/2022-12-thoughts-on-1960s-하녀.md'
-  name: Journal Entry
 ---
 
 # Topoanalysis in "The Handmaiden" 
@@ -16,11 +13,11 @@ foam_template:
 
 The psychological effects of architecture on the human mind are profound and multifaceted. Gaston Bachelard in "poetics of space" suggests that the spaces we inhabit have the ability to evoke deep-seated emotional responses, shaping our psychological experience.
 
-One of the key concepts in Bachelard's philosophy is the idea of "intimate immensity," which encapsulates the psychological impact of architecture on the individual. The feeling of being simultaneously small and insignificant within a vast space can evoke a sense of awe and humility, while conversely, the sensation of being engulfed by a cramped and constricting environment can elicit feelings of anxiety and oppression.
+One of the key concepts in Bachelard's philosophy is the idea of "intimate immensity" **DEFINITION** 
 
-These psychological responses are not only influenced by the size and scale of a space, but also by its materiality. Bachelard's concept of "topoanalysis" highlights the significance of the textures, shapes, and materials of architectural structures. The smooth, cold surface of marble can create a sense of luxury and sophistication, while the rough, jagged edges of concrete can induce feelings of industrial harshness and urban decay.
+These psychological responses are not only influenced by the size and scale of a space, but also by its materiality. Bachelard's concept of "topoanalysis" **how this relates to the house in the housemaid**
 
-But it is not only the physical aspects of a space that impact our psychological experience. Bachelard's idea of "reverie" suggests that certain spaces have the ability to transport us into a state of imaginative contemplation, allowing us to access our innermost thoughts and desires. A grand, open space with high ceilings and natural light may evoke a sense of freedom and limitless possibility, while a cozy nook with comfortable furnishings may inspire feelings of safety and serenity.
+But it is not only the physical aspects of a space that impact our psychological experience. To Bachelard, certain spaces have the ability to transport us into a state of imaginative contemplation, allowing us to access our innermost thoughts and desires. A grand, open space with high ceilings and natural light may evoke a sense of freedom and limitless possibility, while a cozy nook with comfortable furnishings may inspire feelings of safety and serenity.
 
 ## The home as a psychological space in The Housemaid
 
@@ -34,7 +31,7 @@ The cold, unforgiving surfaces of the dungeon-like house create a feeling of har
 ![](../images/housemaid%206.png)
 ![](../images/housemaid%207.png)
 
-The bleak, uninviting atmosphere of a dungeon-like house led by the oppressive, confined feelings evoke anxiety and discomfort, making it difficult for the inhabitants to feel at ease, and such uneasiness work as the catalyst for the major events that occur in the second act of the movie.
+The bleak, uninviting atmosphere of a dungeon-like house led by the oppressive, confined feelings evoke anxiety and discomfort, making it difficult for the inhabitants to feel at ease, and such uneasiness work as the catalyst for the major events that occur in the second act of the movie, as an outsider that presents a constant easiness in this realm shows up.
 
 ![](../images/housemaid%203.png)
 ![](../images/housemaid%204.png)
