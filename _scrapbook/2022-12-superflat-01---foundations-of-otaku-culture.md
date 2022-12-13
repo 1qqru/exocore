@@ -165,16 +165,6 @@ Murakami sees the rise of the otaku subculture as a manifestation of this tenden
 Murakami's work often engages with the concept of superflatness, using it as a lens through which to critique and explore contemporary Japanese society. His art often incorporates elements of anime and manga, as well as other aspects of popular culture, in order to comment on the superficiality and lack of depth that he sees as characteristic of Japanese society.
 
 
-### The Concept of Multiplicity in an Egoless Internet as potentialization of Superflatness
-
-
-Multiplicity is a concept that describes the way that reality is composed of multiple and diverse elements that coexist and intersect in complex and unpredictable ways. This view of reality challenges the traditional notion of the self as a stable and coherent entity, instead suggesting that the self is a fluid and ever-changing assemblage of elements that are constantly in flux.
-
-The internet, with its vast and ever-expanding network of information and communication, has made it possible for individuals to explore and express a multitude of identities and perspectives in a way that was not previously possible in a total "egoless" space, where individuals are able to shed their traditional identities and roles and to explore new and different ways of being. 
-
-In this way, the internet has become a potentialization of the concept of superflatness, allowing individuals to explore the surface-level pleasures of internet experience and develop experiences integrated to the digital realm without being constrained by the expectations and norms of mainstream society or limitations of their real personas. This has created a sense of fluidity, where individuals are able to explore multiple identities and perspectives, and to connect with others in a variety of ways.
-
-
 
 ## The Digital Realm is 2D
 
